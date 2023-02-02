@@ -7,7 +7,7 @@ View the system: (see for yourself here)
 https://docs.google.com/spreadsheets/d/1gsgtQatoCZ8qLucgwqNgZK0dMzlkkC5a/edit?usp=sharing&ouid=101476478834887782743&rtpof=true&sd=true 
 
 
-Provides a robust and streamlined accounting system on Google Sheets
+If you prefer a tally based report system through Google Sheets, you can check out my other project here: https://github.com/hdavidviloria/tallysalesreportgsheet
 
 ## How to use? 
 
