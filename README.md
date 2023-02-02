@@ -1,5 +1,9 @@
 # Google Sheets Accounting System
 
+Click this link to make a copy!
+https://docs.google.com/spreadsheets/d/1gsgtQatoCZ8qLucgwqNgZK0dMzlkkC5a/edit?usp=sharing&ouid=101476478834887782743&rtpof=true&sd=true 
+
+
 Provides a robust and streamlined accounting system on Google Sheets
 
 ## How to use? 
