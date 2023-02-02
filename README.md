@@ -1,4 +1,4 @@
-# Google Sheets Accounting System to keep track of revenue (w/ Dropdown Menu and customer log)
+# Google Sheets Accounting System to keep track of revenue (w/ dropdown menu and customer log)
 
 ## Introduction
 Hi there! I created this system to keep track of revenue during a fair our school had. It's essentially a Google Sheet system in which for every customer that orders, you select the order in the dropdown menu (and how much orders) — and the revenue will automatically be inputted and calculated. Hope this will help you in whatever way it can :)
