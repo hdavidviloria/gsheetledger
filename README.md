@@ -1,6 +1,6 @@
 # Google Sheets Accounting System
 
-Click this link to make a copy!
+View the system:
 https://docs.google.com/spreadsheets/d/1gsgtQatoCZ8qLucgwqNgZK0dMzlkkC5a/edit?usp=sharing&ouid=101476478834887782743&rtpof=true&sd=true 
 
 
