@@ -1,4 +1,4 @@
-# GSheetAccounting
+# GSheetLedger
 ### Google Sheets Accounting System to keep track of revenue (w/ dropdown menu and customer log)
 
 ## Introduction
